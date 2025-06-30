@@ -158,13 +158,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Lucide** - For the beautiful icon set
 - **Vercel** - For the amazing deployment platform
 
-## 📞 Support
 
-- **Documentation**: [docs.resumewallet.com](https://docs.resumewallet.com)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/resume-wallet/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/resume-wallet/discussions)
+## 🤗 How to Contribute
 
----
+We love your ideas and improvements! To contribute:
+
+- **Open Issues**: Found a bug or have a feature request? [Open an issue](https://github.com/W1LDN16H7/resume-holder/issues).
+- **Pull Requests**: Fork, branch, and submit a PR. Please follow our [Contributing Guide](CONTRIBUTING.md).
+- **Discussions**: Join the conversation in [GitHub Discussions](https://github.com/W1LDN16H7/resume-holder/discussions).
+
+All contributions—code, docs, design, or feedback—are welcome!
+
+
 
 **Made with ❤️ for privacy-conscious professionals**
 
