@@ -25,7 +25,7 @@ A secure, client-side resume management application with military-grade encrypti
 ### 🎨 **Modern UI/UX**
 - **Beautiful Dashboard** - Inspired by modern design systems
 - **Responsive Design** - Works perfectly on all devices
-- **Dark Mode Ready** - Elegant light and dark themes
+
 - **Smooth Animations** - Powered by Framer Motion
 - **Keyboard Shortcuts** - Power user friendly
 
@@ -84,16 +84,17 @@ A secure, client-side resume management application with military-grade encrypti
 ## 🛠️ Tech Stack
 
 ### Frontend
-- **React 18** - Modern React with hooks
+- **React 19** - Modern React with hooks
 - **TypeScript** - Type-safe development
 - **Vite** - Lightning-fast build tool
 - **Tailwind CSS** - Utility-first styling
 - **Framer Motion** - Smooth animations
 
+
 ### UI Components
-- **Radix UI** - Accessible component primitives
+- **Shadcn UI** - Accessible component primitives
 - **Lucide React** - Beautiful icons
-- **Sonner** - Toast notifications
+
 - **React PDF** - PDF viewing capabilities
 
 ### Data & Storage
@@ -138,7 +139,7 @@ A secure, client-side resume management application with military-grade encrypti
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+We welcome contributions!
 
 ### Development Setup
 1. Fork the repository
@@ -151,20 +152,13 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Radix UI** - For accessible component primitives
-- **Tailwind CSS** - For the utility-first CSS framework
-- **Lucide** - For the beautiful icon set
-- **Vercel** - For the amazing deployment platform
-
 
 ## 🤗 How to Contribute
 
 We love your ideas and improvements! To contribute:
 
 - **Open Issues**: Found a bug or have a feature request? [Open an issue](https://github.com/W1LDN16H7/resume-holder/issues).
-- **Pull Requests**: Fork, branch, and submit a PR. Please follow our [Contributing Guide](CONTRIBUTING.md).
+- **Pull Requests**: Fork, branch, and submit a PR. 
 - **Discussions**: Join the conversation in [GitHub Discussions](https://github.com/W1LDN16H7/resume-holder/discussions).
 
 All contributions—code, docs, design, or feedback—are welcome!
